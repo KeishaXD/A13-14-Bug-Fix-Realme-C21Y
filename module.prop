@@ -4,4 +4,4 @@ version=v1.0
 versionCode=1
 author=@lilxercy rev by @KeishaXD
 description=Fix Brightness, Codec, And OTG
-updateJson=
+updateJson=https://raw.github.com/KeishaXD/A13-14-Bug-Fix-Realme-C21Y/blob/main/update.json
