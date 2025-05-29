@@ -4,6 +4,6 @@ This module provides fixes for common issues found on Android 13 & Android 14 GS
 
 ### Changelog
 
-- Fix typo
-- Test updatw button
-- Test 3
+- Add customize.sh on module directory
+- Add banner on github page
+- Add Readme.md on github page
