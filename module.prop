@@ -1,7 +1,7 @@
 id=c21y-bug-fix-A13-14
-name=A13 & A14 Bug Fix For GSI Realme C21Y
-version=v1.7
-versionCode=7
-author=@lilxercy rev by @KeishaXD
-description=Fix Brightness, Codec, And OTG
+name=A13+ Bug Fix For GSI Realme C21Y
+version=v1.8
+versionCode=8
+author=@KeishaXD
+description=Fix Brightness, OTG, DAC, 5W Charging, and Vendor Bug
 updateJson=https://raw.githubusercontent.com/KeishaXD/A13-14-Bug-Fix-Realme-C21Y/main/update.json

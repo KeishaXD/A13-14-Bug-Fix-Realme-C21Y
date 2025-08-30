@@ -1,12 +1,18 @@
 ##  A13 & A14 Bug Fix Realme C21Y
 
-This module provides fixes for common issues found on Android 13 & Android 14 GSI Rom on the Realme C21Y device. 
+This module provides fixes for common issues found on Android 13+ GSI Rom on the Realme C21Y device. 
 
 ### Changelog
 
-- Add customize.sh on module directory
-- Add banner on github page
-- Add Readme.md on github page
-- Remove vulkan
+- Testing update button
+- Remake banner on github
 - Add verified on github
-- Fix eror update on magisk app
+- Fix downloas eror on magisk app
+- Fix DAC Dongle
+- Fix 5W Charging
+
+## Credits
+- OTG Fix By Mr.J (Telegram)
+- DAC Fix By FandyID (Telegram)
+- Charging By Kenmanmen (Telegram)
+- Vendor bug By Kenmanmen (Telegram)
